@@ -1,0 +1,12 @@
+[Default Applications]
+text/html=ungoogled-chromium.desktop
+x-scheme-handler/http=ungoogled-chromium.desktop
+x-scheme-handler/https=ungoogled-chromium.desktop
+x-scheme-handler/about=ungoogled-chromium.desktop
+x-scheme-handler/unknown=ungoogled-chromium.desktop
+
+[Added Associations]
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=Alacritty.desktop;
+application/x-xz-compressed-tar=pcmanfm.desktop;
+application/x-desktop=nvim.desktop;
+application/x-cd-image=nvim.desktop;

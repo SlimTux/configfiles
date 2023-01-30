@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-redwood-app": "^3.8.0",
+    "create-vite": "^4.0.0"
+  }
+}
